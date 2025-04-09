@@ -1,0 +1,6 @@
+# Calculando a soma e a média da lista
+lista = [10, 20, 30, 40, 50]
+soma = sum(lista)
+media = soma / len(lista)
+print("Soma:", soma)
+print("Média:", media)
